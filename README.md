@@ -19,13 +19,13 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🛰️ &nbsp; SYSTEM STATUS
+## 🛰️   SYSTEM STATUS
 
 ```yaml
 identity:     Yuvaraj Singh
-role:         Robotics &amp; AI System Engineer
+role:         Robotics & AI System Engineer
 location:     Chennai, India
-mission:      Autonomous systems for on-orbit servicing &amp; debris remediation
+mission:      Autonomous systems for on-orbit servicing & debris remediation
 current_org:  Space Tug Pvt Ltd
 focus:        [Vision-Based Navigation, GNC, AI Perception for Extreme Environments]
 status:       ONLINE — accepting collaboration requests
@@ -56,7 +56,7 @@ Rust · FreeRTOS · Onboard Embedded AI
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 &nbsp; FLAGSHIP PROJECTS
+## 🚀   FLAGSHIP PROJECTS
 
 ### 🌌 SpaceTug Orbital Simulator (STOS)
 > Real-time **6-DOF** orbital mechanics laboratory for spacecraft servicing, rendezvous &amp; proximity operations (RPO), and autonomous robotic capture.
@@ -102,7 +102,7 @@ Rust · FreeRTOS · Onboard Embedded AI
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 💼 &nbsp; MISSION LOG
+## 💼   MISSION LOG
 
 <table>
 <tr><td>
@@ -134,7 +134,7 @@ Rust · FreeRTOS · Onboard Embedded AI
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🧠 &nbsp; SYSTEMS &amp; SKILLS
+## 🧠   SYSTEMS &amp; SKILLS
 
 <table>
 <tr>
@@ -210,14 +210,14 @@ Rust · FreeRTOS · Onboard Embedded AI
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📚 &nbsp; PUBLICATIONS
+## 📚   PUBLICATIONS
 
 - 📖 [**Analysis of Veyon Robotic Manipulator for In-Orbit Servicing**](https://ieeexplore.ieee.org/document/11170528) — *IEEE SPACE*
 - 📖 [**Custom Object Detection Using YOLO Integrated with a Segment Anything Model**](https://www.irjet.net/archives/V10/i10/IRJET-V10I1003.pdf) — *IRJET*
 
 **🗣️ Talks:** *"In-Orbit Servicing: Robotics Beyond Earth"* (2025) · *"Custom Object Detection with YOLO + SAM"* (2024)
 
-## 🎓 &nbsp; EDUCATION &amp; CERTIFICATIONS
+## 🎓   EDUCATION &amp; CERTIFICATIONS
 
 | Degree | Institution | Score | Years |
 |---|---|---|---|
@@ -228,7 +228,7 @@ Rust · FreeRTOS · Onboard Embedded AI
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📊 &nbsp; TELEMETRY
+## 📊   TELEMETRY
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yuvakali&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a2e&amp;title_color=00f2fe&amp;icon_color=00f2fe" height="170" />
@@ -247,7 +247,7 @@ Rust · FreeRTOS · Onboard Embedded AI
 
 <div align="center">
 
-### 📡 &nbsp; ESTABLISH COMMS LINK
+### 📡   ESTABLISH COMMS LINK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/yuvakali/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&amp;logo=vercel&amp;logoColor=black)](https://yuvdev.vercel.app/)
