@@ -16,7 +16,7 @@
   <a href="mailto:yuvarajsinghoffice@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yuvakali.github.io/Portfolio">
+  <a href="https://yuvdev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/yuvakali">
@@ -131,7 +131,7 @@ Python/MATLAB analysis of night-time airglow at **NARL, ISRO/DoS** for upper-atm
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/yuvakali](https://www.linkedin.com/in/yuvakali/)
-- 🌐 **Portfolio:** [yuvakali.github.io/Portfolio](https://yuvakali.github.io/Portfolio)
+- 🌐 **Portfolio:** [yuvakali.github.io/Portfolio](https://yuvdev.vercel.app)
 - 📧 **Email:** [yuvarajsinghoffice@gmail.com](mailto:yuvarajsinghoffice@gmail.com)
 - 📍 Chennai, India
 
