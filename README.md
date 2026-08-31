@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=YUVARAJ%20SINGH&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20AI%20System%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=gradient&amp;customColorList=12&amp;text=YUVARAJ%20SINGH&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Robotics%20%26%20AI%20System%20Engineer&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=800&lines=On-Orbit+Servicing+%7C+Debris+Remediation;Vision-Based+Navigation+%7C+GNC+Systems;ROS2+%7C+Computer+Vision+%7C+Space+Robotics;Building+Autonomy+for+the+Next+Frontier" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=On-Orbit+Servicing+%7C+Debris+Remediation;Vision-Based+Navigation+%7C+GNC+Systems;ROS2+%7C+Computer+Vision+%7C+Space+Robotics;Building+Autonomy+for+the+Next+Frontier" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/yuvakali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yuvarajsinghoffice@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://yuvdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="https://github.com/yuvakali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yuvakali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:yuvarajsinghoffice@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://yuvdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&amp;logo=vercel&amp;logoColor=black"/></a>
+<a href="https://github.com/yuvakali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=yuvakali&style=for-the-badge&color=00f2fe&label=ORBITAL+VISITS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=yuvakali&amp;style=for-the-badge&amp;color=00f2fe&amp;label=ORBITAL+VISITS" alt="Profile views" />
 
 </div>
 
@@ -70,9 +70,9 @@ Rust · FreeRTOS · Onboard Embedded AI
 
 <p>
 <a href="https://github.com/yuvakali/stos-trial-releases/releases/tag/v1.0.3"><img src="https://img.shields.io/badge/Latest_Release-v1.0.3-00f2fe?style=for-the-badge"/></a>
-<a href="https://github.com/yuvakali/stos-trial-releases/releases/download/v1.0.3/STOS-Trial-Setup-1.0.3.exe"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-<a href="https://github.com/yuvakali/stos-trial-releases/releases/download/v1.0.3/stos-trial_1.0.3_amd64.deb"><img src="https://img.shields.io/badge/Debian-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
-<a href="https://github.com/yuvakali/stos-trial-releases/releases/download/v1.0.3/STOS-Trial-1.0.3-x86_64.AppImage"><img src="https://img.shields.io/badge/AppImage-1793D1?style=for-the-badge&logo=linux&logoColor=white"/></a>
+<a href="https://github.com/yuvakali/stos-trial-releases/releases/download/v1.0.3/STOS-Trial-Setup-1.0.3.exe"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white"/></a>
+<a href="https://github.com/yuvakali/stos-trial-releases/releases/download/v1.0.3/stos-trial_1.0.3_amd64.deb"><img src="https://img.shields.io/badge/Debian-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white"/></a>
+<a href="https://github.com/yuvakali/stos-trial-releases/releases/download/v1.0.3/STOS-Trial-1.0.3-x86_64.AppImage"><img src="https://img.shields.io/badge/AppImage-1793D1?style=for-the-badge&amp;logo=linux&amp;logoColor=white"/></a>
 </p>
 
 ---
@@ -87,7 +87,7 @@ Rust · FreeRTOS · Onboard Embedded AI
 | 📷 **Multi-scale Detection** | Concentric orbit rings + STag fallback |
 | 🧠 **Tracking** | Temporal motion-model tracker |
 
-<a href="https://github.com/yuvakali/AURA-Space"><img src="https://img.shields.io/badge/AURA--Space-View_Repository-00f2fe?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://github.com/yuvakali/AURA-Space"><img src="https://img.shields.io/badge/AURA--Space-View_Repository-00f2fe?style=for-the-badge&amp;logo=github&amp;logoColor=black"/></a>
 
 ---
 
@@ -231,16 +231,16 @@ Rust · FreeRTOS · Onboard Embedded AI
 ## 📊 &nbsp; TELEMETRY
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yuvakali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00f2fe&icon_color=00f2fe" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvakali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00f2fe" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=yuvakali&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a2e&amp;title_color=00f2fe&amp;icon_color=00f2fe" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvakali&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a2e&amp;title_color=00f2fe" height="170" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=yuvakali&theme=tokyonight&hide_border=true&background=0a0a2e&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" />
+<img src="https://streak-stats.demolab.com/?user=yuvakali&amp;theme=tokyonight&amp;hide_border=true&amp;background=0a0a2e&amp;ring=00f2fe&amp;fire=00f2fe&amp;currStreakLabel=00f2fe" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yuvakali&theme=darkhub&no-frame=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=yuvakali&amp;theme=darkhub&amp;no-frame=true&amp;margin-w=4&amp;row=1" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -260,6 +260,6 @@ Rust · FreeRTOS · Onboard Embedded AI
 + Bringing autonomy to space — one orbit at a time. 🛰️
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=gradient&amp;customColorList=12&amp;section=footer" width="100%"/>
 
 </div>
